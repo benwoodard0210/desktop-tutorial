@@ -1,1 +1,11 @@
-sometest
+{
+  "@context": ["https://www.w3.org/ns/activitystreams", {"@language": "en"}],
+  "id": "https://truthsocial.com/users/bwoodard/posts/112021781522761605",
+  "type": "Note",
+  "actor": "https://truthsocial.com/users/bwoodard",
+  "attributedTo": "https://truthsocial.com/users/bwoodard",
+  "content": "Oops my bad I need to delete this post im an idiot",
+  "to": [ "https://www.w3.org/ns/activitystreams#Public" ],
+  "cc": [ "https://truthsocial.com/users/bwoodard/followers" ],
+  "published": "2024-01-28T22:00:00Z"
+}
